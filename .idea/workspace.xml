@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92decb-8498-4698-afa7-d5490f3a8bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/Exceptions/VideoUnsupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/MediaPlayers/DivMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/MediaPlayers/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/MediaPlayers/VlcMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/BadCodeDesign/MediaPlayers/WinampMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/DivMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/Interfaces/AudioMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/Interfaces/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/Interfaces/VideoMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/VlcMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I/GoodCodeDesign/MediaPlayers/WinampMediaPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/I/InterfaceSegregation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/I/MediaPlayer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,15 +53,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/bkm-10-creation-description-repository",
-    "last_opened_file_path": "C:/Users/admin/learning/SOLID",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/admin/learning/SOLID/src/SOLID/I/GoodCodeDesign",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\learning\SOLID\src\SOLID\I\GoodCodeDesign" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SOLID.I.GoodCodeDesign" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SOLID.I.GoodCodeDesign.MediaPlayers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SOLID.I.BadCodeDesign.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SOLID" />
@@ -55,8 +80,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SOLID.I.BadCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.I.BadCodeDesign.Main" />
+      <module name="SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLID.I.BadCodeDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SOLID.I.GoodCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.I.GoodCodeDesign.Main" />
+      <module name="SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLID.I.GoodCodeDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SOLID.I.BadCodeDesign.Main" />
+        <item itemvalue="Application.SOLID.I.GoodCodeDesign.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
