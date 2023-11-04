@@ -1,4 +1,4 @@
-package solid;
+package SOLID;
 
 public class ComputerKeeperToDB implements ComputerKeeperable {
     @Override

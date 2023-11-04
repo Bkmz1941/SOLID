@@ -1,4 +1,4 @@
-package solid;
+package SOLID;
 
 /**
  * This interface implements the second principle `Open-Closed`. Instead of modifying existing classes

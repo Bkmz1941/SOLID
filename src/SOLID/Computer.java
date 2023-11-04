@@ -1,4 +1,4 @@
-package solid;
+package SOLID;
 
 /**
  * Methods `saveToFile` and `saveToDatabase` violate the principle `Single responsibility`

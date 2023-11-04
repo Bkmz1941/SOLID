@@ -1,4 +1,4 @@
-package solid;
+package SOLID;
 
 /**
  * This class have only one purpose - to keep the computer and has different function for that
