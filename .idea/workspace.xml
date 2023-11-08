@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92decb-8498-4698-afa7-d5490f3a8bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/Services/Interfaces/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/Services/Interfaces/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/Services/ServiceAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepA/Services/ServiceBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Annotations/Inject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/DIContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Services/Interfaces/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Services/Interfaces/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Services/ServiceAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepB/Services/ServiceBImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Annotations/Inject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Annotations/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/ClassPathScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/DIContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Services/Interfaces/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Services/Interfaces/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Services/ServiceAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/D/DIContextContainer/StepC/Services/ServiceBImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S/BadCodeDesign/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S/BadCodeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S/GoodCodeDesign/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S/GoodCodeDesign/BookPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S/GoodCodeDesign/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -85,29 +68,17 @@
       <recent name="SOLID.I.GoodCodeDesign" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SOLID.S.BadCodeDesign" />
       <recent name="SOLID.I.GoodCodeDesign.MediaPlayers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SOLID.D.DIContextContainer.StepC.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLID.D.DIContextContainer.StepA.Main" />
+      <option name="MAIN_CLASS_NAME" value="SOLID.S.GoodCodeDesign.Main" />
       <module name="SOLID" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SOLID.D.DIContextContainer.StepA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SOLID.D.BadCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLID.D.BadCodeDesign.Main" />
-      <module name="SOLID" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SOLID.D.BadCodeDesign.*" />
+          <option name="PATTERN" value="SOLID.S.GoodCodeDesign.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SOLID.S.BadCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.S.BadCodeDesign.Main" />
+      <module name="SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SOLID.S.BadCodeDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SOLID.S.BadCodeDesign.Main" />
         <item itemvalue="Application.SOLID.D.DIContextContainer.StepC.Main" />
         <item itemvalue="Application.SOLID.D.DIContextContainer.StepB.Main" />
         <item itemvalue="Application.SOLID.D.GoodCodeDesign.Main" />
-        <item itemvalue="Application.SOLID.D.BadCodeDesign.Main" />
       </list>
     </recent_temporary>
   </component>
