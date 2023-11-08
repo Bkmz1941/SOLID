@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92decb-8498-4698-afa7-d5490f3a8bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/BadCodeDesign/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/BadCodeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/GoodCodeDesign/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/GoodCodeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/O/GoodCodeDesign/SuperCoolGuitarWithFlames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/MotorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperToDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperToFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperable.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/admin/learning/SOLID/src/SOLID/O/GoodCodeDesign",
+    "last_opened_file_path": "C:/Users/admin/learning/SOLID/src/SOLID/L/GoodCodeDesign",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -55,11 +61,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\learning\SOLID\src\SOLID\L\GoodCodeDesign" />
       <recent name="C:\Users\admin\learning\SOLID\src\SOLID\O\GoodCodeDesign" />
       <recent name="C:\Users\admin\learning\SOLID\src\SOLID\D\DIContextContainer\StepC" />
       <recent name="C:\Users\admin\learning\SOLID\src\SOLID\D\DIContextContainer\StepC\Services\Interfaces" />
       <recent name="C:\Users\admin\learning\SOLID\src\SOLID\D\DIContextContainer\StepB" />
-      <recent name="C:\Users\admin\learning\SOLID\src\SOLID\D\GoodCodeDesign" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\learning\SOLID\src\SOLID\L" />
+      <recent name="C:\Users\admin\learning\SOLID\src\SOLID\BadCodeDesign" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="SOLID.O" />
@@ -73,7 +83,7 @@
       <recent name="SOLID.I.GoodCodeDesign.MediaPlayers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.SOLID.L.BadCodeDesign.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOLID.S.GoodCodeDesign.Main" />
       <module name="SOLID" />
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SOLID.D.GoodCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOLID.D.GoodCodeDesign.Main" />
+    <configuration name="SOLID.L.BadCodeDesign.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOLID.L.BadCodeDesign.Main" />
       <module name="SOLID" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SOLID.D.GoodCodeDesign.*" />
+          <option name="PATTERN" value="SOLID.L.BadCodeDesign.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SOLID.L.BadCodeDesign.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SOLID.S.BadCodeDesign.Main" />
         <item itemvalue="Application.SOLID.D.DIContextContainer.StepC.Main" />
         <item itemvalue="Application.SOLID.D.DIContextContainer.StepB.Main" />
-        <item itemvalue="Application.SOLID.D.GoodCodeDesign.Main" />
       </list>
     </recent_temporary>
   </component>
