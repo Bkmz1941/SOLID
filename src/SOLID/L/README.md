@@ -1,3 +1,3 @@
 ### Liskov substitution
 
-A GoodCodeDesign is implemented with "I" principle
+A GoodCodeDesign implements with "I" principle

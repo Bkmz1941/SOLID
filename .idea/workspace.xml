@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92decb-8498-4698-afa7-d5490f3a8bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Cars/MotorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/L/BadCodeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/L/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SOLID/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperToDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperToFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SOLID/ComputerKeeperable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SOLID/L/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SOLID/L/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
